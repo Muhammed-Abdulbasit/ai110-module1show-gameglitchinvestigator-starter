@@ -34,6 +34,9 @@ It wrote the code, ran away, and now the game is unplayable.
 - [ ] [Insert a screenshot of your fixed, winning game here]
 <img width="1278" height="1323" alt="Screenshot 2026-03-18 at 2 40 04 AM" src="https://github.com/user-attachments/assets/f367d50f-7006-465d-9ca3-cc01d4eed2b5" />
 
+Pytest results:
+<img width="748" height="187" alt="Screenshot 2026-03-18 at 2 42 10 AM" src="https://github.com/user-attachments/assets/18d16fd5-afbc-47be-88bf-0c58d3c84c31" />
+
 
 ## 🚀 Stretch Features
 
